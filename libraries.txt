@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Blynk
+DHT sensor library
+Adafruit Unified Sensor
+LiquidCrystal I2C
+ESP32Servo
